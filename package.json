@@ -21,7 +21,7 @@
     "@strapi/provider-email-mailgun": "4.0.4",
     "@strapi/provider-upload-aws-s3": "4.0.4",
     "@strapi/provider-upload-cloudinary": "4.0.4",
-    "@strapi/strapi": "4.0.0",
+    "@strapi/strapi": "4.0.4",
     "@strapi/utils": "4.0.4",
     "lodash": "4.17.21",
     "mysql": "2.18.1",
